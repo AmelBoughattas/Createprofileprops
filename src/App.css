@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url('https://picfiles.alphacoders.com/250/250515.jpg') ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* .App {
+  margin-left:6em;
+} */
+
+
+.logo{
+  box-shadow: 0 10px 20px grey;
+  border-radius: 50%;
+  margin: 70px 0 0 100px;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.logo:hover {
+  transform:scale(1.2);
+}
+.contenu{
+  margin-left:30px;
+}
+p, h2{
+  font-family: 'Satisfy', cursive;
+ 
+}
+
+
+
+
+
+
